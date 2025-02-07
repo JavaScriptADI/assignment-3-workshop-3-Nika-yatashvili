@@ -29,12 +29,12 @@ for (let i = 0; i < 10; i += 2) {
 
 // task7 
 for (let z = 1; z <= 100; z++) {
-    if (z > 27){
-    break;
-}
+    if (z > 27) {
+        break;
+    }
     console.log(z);
 
-    
+
 }
 
 
