@@ -16,7 +16,7 @@ for (let x = 10; x >= 1; x--) {
 // when i=2 then sum=3; i=3 ; sum = 6 ; i=4 ; sum= 10...
 let sum = 0;
 for (let i = 1; i <= 50; i++) {
-    sum += i
+    sum += i;
 }
 console.log(sum);
 
@@ -29,10 +29,12 @@ for (let i = 0; i < 10; i += 2) {
 
 // task7 
 for (let z = 1; z <= 100; z++) {
-    if (z > 27);
+    if (z > 27){
     break;
-
+}
     console.log(z);
+
+    
 }
 
 
