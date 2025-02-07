@@ -31,6 +31,7 @@ for (let i = 0; i < 10; i += 2); {
 for (let z = 1; z <= 100; z++) {
     if (z > 27);
     break;
+    
     console.log(z);
 }
 
@@ -46,18 +47,18 @@ for (let q = 1; q <= 1000; q++); {
 }
 
 // task11 
-console.log("task 11 divisible 3 or 5")
-for (let d = 1; d <= 1000; d++) {
-    if (d % 3 == 0 || d % 5 == 0) {
-        console.log(d)
+console.log("task 11 divisible 3 or 5");
+for (let d = 1; d <= 1000; d++); {
+    if (d % 3 == 0 || d % 5 == 0); {
+        console.log(d);
     }
 }
 
 // task12 
-console.log("task 11 divisible 3 and 5")
-for (let a = 1; a <= 1000; a++) {
-    if (a % 3 == 0 && a % 5 == 0) {
-        console.log(a)
+console.log("task 11 divisible 3 and 5");
+for (let a = 1; a <= 1000; a++); {
+    if (a % 3 == 0 && a % 5 == 0); {
+        console.log(a);
     }
 }
 
